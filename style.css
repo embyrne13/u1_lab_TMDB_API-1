@@ -1,7 +1,7 @@
 body {
   text-align: center;
-  background-color: #999999;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #8e9ceb;
+  font-family: Chalkduster, fantasy;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 input {
   padding: 8px;
   border-radius: 2px;
-  margin:5px;
+  margin: 5px;
 }
 
 img {
@@ -20,7 +20,7 @@ img {
 
 button {
   border: 1px solid black;
-  background-color: #cc4949;
+  background-color: #131aa1;
   color: white;
   padding: 8px;
   cursor: pointer;
